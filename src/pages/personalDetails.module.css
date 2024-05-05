@@ -1,0 +1,28 @@
+.resumeBuilder {
+  width: 100%;
+  background-color: blueviolet;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.resumeText {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  font-size: large;
+  font-weight: 600;
+}
+
+.personalDetailsContainer {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  height: 20%;
+}
+
+.mainContainer {
+  margin-top: 10px;
+  border: 1px solid black;
+  height: 500px;
+}
